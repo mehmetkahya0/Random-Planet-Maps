@@ -3,6 +3,9 @@
 
 Explore the wonders of the universe with Random Planet / Satellite Maps! This project allows you to discover and explore random maps of various planets and satellites in our solar system.
 
+## Try
+https://randomplanet.mehmet0.repl.co [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehmetkahya0%2FRandom-Planet-Maps%2Fblob%2Fmain%2FREADME.md&count_bg=%230073E3&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Features
 
 - Randomly generates maps of planets and satellites
