@@ -20,7 +20,7 @@ https://randomplanet.mehmet0.repl.co [![Hits](https://hits.seeyoufarm.com/api/co
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/random-planet-maps.git
+git clone https://github.com/mehmetkahya0/random-planet-maps.git
 ```
 Open index.html in your preferred web browser.
 
