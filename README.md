@@ -6,6 +6,8 @@ Explore the wonders of the universe with Random Planet / Satellite Maps! This pr
 ## Try
 https://randomplanet.mehmet0.repl.co [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehmetkahya0%2FRandom-Planet-Maps%2Fblob%2Fmain%2FREADME.md&count_bg=%230073E3&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://www.buymeacoffee.com/mehmetkahy1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Features
 
 - Randomly generates maps of planets and satellites
